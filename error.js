@@ -7,3 +7,4 @@ console.log(k)
 
 let p = 90
 p = "Rahul"
+p =true
